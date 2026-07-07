@@ -88,6 +88,8 @@ The project includes three interactive dashboards:
 - Preferred Platforms
 - Preferred Web Frameworks
 
+![](https://github.com/themohdwaseem313/IBM_Data_Analyst_Capstone_Project/blob/master/Future%20Technology%20Trend.png)
+
 ### 3️⃣ Demographics
 - Age Distribution
 - Country Distribution
