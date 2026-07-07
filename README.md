@@ -80,7 +80,7 @@ The project includes three interactive dashboards:
 - Top Platforms
 - Top Web Frameworks
 
-(https://github.com/themohdwaseem313/IBM_Data_Analyst_Capstone_Project/blob/master/Current%20Technology%20Use.png)
+[](https://github.com/themohdwaseem313/IBM_Data_Analyst_Capstone_Project/blob/master/Current%20Technology%20Use.png)
 
 ### 2️⃣ Future Technology Trends
 - Preferred Programming Languages
