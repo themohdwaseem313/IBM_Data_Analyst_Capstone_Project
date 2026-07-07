@@ -96,6 +96,8 @@ The project includes three interactive dashboards:
 - Education Level
 - Age vs Education Analysis
 
+![](https://github.com/themohdwaseem313/IBM_Data_Analyst_Capstone_Project/blob/master/Domographics.png)
+
 ---
 
 ## ✨ Key Features
@@ -122,4 +124,4 @@ The project includes three interactive dashboards:
 
 ---
 
-## 📁 Repository Structure
+# Thank You...
